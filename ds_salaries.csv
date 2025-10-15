@@ -1,0 +1,1001 @@
+job_title,employee_residence,salary_in_usd,experience_level,company_size,skills,remote_ratio
+Data Analyst,Canada,114911,Senior,Large,"TensorFlow,Spark",100
+Research Scientist,India,64420,Executive,Medium,"AWS,SQL,Tableau",0
+Data Scientist,United Kingdom,197231,Senior,Large,"R,AWS,PyTorch",0
+Data Engineer,Germany,61907,Junior,Medium,"Python,AWS,SQL",0
+ML Engineer,Remote,87594,Junior,Medium,"Python,Spark,GCP",50
+Data Analyst,Remote,130232,Senior,Large,"SQL,R,Tableau",50
+Data Scientist,Germany,162100,Executive,Small,"R,PyTorch",100
+ML Engineer,United States,184550,Senior,Small,"SQL,PyTorch,Spark",100
+Research Scientist,United Kingdom,255244,Executive,Medium,"AWS,R,TensorFlow,Spark",50
+ML Engineer,United States,261844,Senior,Large,"Tableau,PyTorch,R",0
+ML Engineer,Canada,201624,Executive,Small,"Tableau,GCP,PyTorch,Python",50
+ML Engineer,India,48441,Senior,Small,"R,AWS,PyTorch,TensorFlow",50
+ML Engineer,United States,154261,Mid,Small,"AWS,Spark",50
+Data Engineer,United Kingdom,58669,Junior,Small,"GCP,AWS",0
+Data Scientist,United Kingdom,96161,Mid,Medium,"R,Python",0
+Data Analyst,India,17505,Mid,Medium,"Spark,R,GCP,AWS",100
+ML Engineer,Germany,278307,Executive,Large,"AWS,TensorFlow",100
+Data Engineer,United Kingdom,159491,Senior,Medium,"PyTorch,SQL",100
+Data Scientist,United States,264065,Senior,Large,"PyTorch,R,GCP,SQL",50
+ML Engineer,Remote,128388,Junior,Large,"Python,TensorFlow",0
+Data Analyst,United States,81262,Mid,Small,"AWS,GCP,R,PyTorch",50
+Research Scientist,United Kingdom,138961,Mid,Large,"Tableau,Spark,GCP,SQL",100
+Data Analyst,United Kingdom,124794,Executive,Small,"R,GCP",100
+ML Engineer,Germany,93954,Junior,Large,"Tableau,AWS",50
+Data Engineer,United Kingdom,230861,Executive,Medium,"Tableau,Python,TensorFlow",0
+ML Engineer,Remote,305957,Executive,Large,"Tableau,AWS",0
+Data Analyst,Canada,105747,Executive,Small,"AWS,Python,Tableau",0
+Data Engineer,Remote,88379,Junior,Medium,"Tableau,PyTorch,Spark",0
+Data Analyst,Remote,45317,Junior,Medium,"Python,Tableau,AWS,Spark",100
+ML Engineer,Germany,125015,Mid,Large,"Spark,SQL,GCP",0
+Data Engineer,Remote,95913,Mid,Small,"Spark,R",100
+Research Scientist,Remote,82950,Junior,Small,"Tableau,SQL,R",100
+Data Analyst,United States,81321,Mid,Medium,"Python,SQL",50
+ML Engineer,India,70160,Executive,Small,"PyTorch,AWS",50
+ML Engineer,Germany,81613,Junior,Small,"GCP,R",0
+Research Scientist,Germany,219227,Senior,Medium,"GCP,PyTorch,AWS",50
+Data Engineer,United Kingdom,95543,Junior,Large,"Spark,AWS,Python",50
+Research Scientist,United States,440457,Executive,Large,"PyTorch,AWS",0
+Research Scientist,United States,214052,Senior,Small,"GCP,SQL,PyTorch",0
+Data Scientist,United Kingdom,178903,Executive,Small,"Tableau,GCP,Python,Spark",0
+Data Scientist,Canada,66200,Junior,Medium,"Spark,Python,TensorFlow",50
+Data Analyst,United States,98701,Mid,Medium,"SQL,TensorFlow",0
+Research Scientist,Canada,132307,Mid,Large,"GCP,SQL",0
+Data Analyst,Remote,144605,Senior,Large,"TensorFlow,Spark,R",0
+Data Scientist,United States,170426,Senior,Small,"SQL,R,PyTorch",50
+Data Analyst,Canada,124834,Executive,Small,"GCP,R",0
+Data Engineer,United States,106941,Junior,Medium,"R,Tableau,Spark,TensorFlow",50
+Data Analyst,Germany,44334,Junior,Medium,"AWS,SQL,Python",100
+Data Scientist,United States,87128,Junior,Small,"GCP,Spark",50
+Data Engineer,United Kingdom,66570,Junior,Small,"PyTorch,GCP,SQL,TensorFlow",50
+Data Scientist,Remote,207293,Senior,Large,"TensorFlow,Spark",0
+Research Scientist,Remote,202767,Senior,Small,"GCP,TensorFlow,Python,SQL",50
+Data Scientist,United Kingdom,64398,Junior,Small,"Spark,SQL,AWS",100
+Data Engineer,Germany,60773,Junior,Medium,"SQL,Spark",50
+Data Analyst,India,21755,Mid,Medium,"Python,TensorFlow,Tableau",0
+Data Analyst,Remote,121697,Senior,Medium,"SQL,GCP,Tableau,AWS",0
+Data Engineer,Remote,85432,Junior,Medium,"R,AWS",100
+Research Scientist,India,23195,Junior,Medium,"Tableau,GCP,Python,AWS",0
+Research Scientist,United States,392728,Executive,Medium,"TensorFlow,GCP,Spark",0
+ML Engineer,Canada,86795,Junior,Medium,"R,Tableau",50
+Data Engineer,Germany,154277,Senior,Medium,"TensorFlow,R,Python",100
+ML Engineer,United States,202348,Senior,Small,"TensorFlow,SQL,Tableau",0
+Data Analyst,India,25722,Senior,Small,"Spark,PyTorch",0
+Research Scientist,Remote,255707,Executive,Medium,"R,Tableau,TensorFlow",50
+Data Analyst,Remote,135574,Senior,Medium,"TensorFlow,R,Tableau",50
+Data Engineer,Germany,267824,Executive,Large,"PyTorch,TensorFlow,GCP,R",50
+ML Engineer,Canada,202265,Executive,Small,"GCP,R,PyTorch",50
+Research Scientist,Remote,299776,Senior,Large,"TensorFlow,PyTorch",0
+Data Engineer,Germany,101866,Junior,Large,"TensorFlow,GCP",50
+Research Scientist,United Kingdom,94828,Junior,Medium,"R,Spark,Tableau,GCP",50
+ML Engineer,Canada,70078,Junior,Small,"GCP,Tableau,SQL,AWS",100
+Research Scientist,Remote,117655,Junior,Large,"SQL,TensorFlow,AWS,PyTorch",100
+ML Engineer,Remote,155805,Mid,Large,"Tableau,AWS,GCP,Python",0
+Data Scientist,United States,87274,Junior,Small,"Tableau,SQL,Spark,PyTorch",50
+Research Scientist,Germany,110321,Junior,Large,"SQL,GCP",100
+Data Analyst,Germany,79463,Mid,Large,"Python,GCP,Tableau,Spark",100
+Data Engineer,Remote,159440,Senior,Medium,"PyTorch,GCP",0
+Research Scientist,India,30974,Junior,Large,"TensorFlow,Spark,GCP",0
+Research Scientist,India,38166,Mid,Medium,"R,Spark,PyTorch,TensorFlow",0
+Data Scientist,India,53545,Executive,Small,"PyTorch,AWS",50
+ML Engineer,India,50713,Senior,Small,"R,Tableau,GCP,Spark",100
+Data Engineer,Germany,82350,Mid,Small,"PyTorch,SQL",0
+Data Scientist,United States,241204,Executive,Small,"R,AWS,TensorFlow",100
+Data Engineer,United States,184797,Mid,Large,"PyTorch,SQL,GCP,Spark",0
+Research Scientist,United Kingdom,305456,Executive,Medium,"PyTorch,GCP,Spark",100
+Research Scientist,United States,168943,Junior,Large,"R,TensorFlow,AWS,Tableau",100
+Data Engineer,United Kingdom,212591,Executive,Medium,"Spark,Python,SQL",100
+Data Engineer,United States,181613,Senior,Small,"AWS,Tableau,Python,GCP",100
+Data Engineer,India,49332,Senior,Large,"SQL,Tableau,GCP,R",50
+Data Analyst,United States,98816,Mid,Medium,"PyTorch,TensorFlow,AWS,Tableau",0
+Data Scientist,United States,105100,Mid,Medium,"Tableau,Python,SQL,GCP",50
+Research Scientist,India,58058,Executive,Small,"GCP,AWS,SQL",0
+ML Engineer,United States,253225,Senior,Medium,"GCP,Tableau,SQL,AWS",50
+Research Scientist,Germany,142731,Mid,Medium,"Spark,Tableau,PyTorch",0
+Research Scientist,United Kingdom,358316,Executive,Large,"Python,PyTorch",0
+Data Scientist,India,77613,Executive,Large,"Spark,R,PyTorch,AWS",50
+Research Scientist,United States,90122,Junior,Small,"AWS,Spark",100
+Data Engineer,Germany,129762,Senior,Small,"AWS,TensorFlow,Spark,SQL",100
+Research Scientist,United States,265551,Senior,Small,"Tableau,PyTorch,SQL",0
+Data Engineer,India,79696,Executive,Large,"TensorFlow,Python",0
+ML Engineer,India,61975,Senior,Large,"Python,Spark",50
+ML Engineer,Germany,210363,Executive,Small,"Python,AWS,Spark",0
+Data Scientist,Canada,80692,Mid,Small,"TensorFlow,Python",50
+ML Engineer,United Kingdom,187193,Senior,Medium,"R,GCP",0
+Data Analyst,Canada,46716,Junior,Medium,"Python,Tableau",0
+Research Scientist,Remote,190939,Senior,Small,"AWS,PyTorch,Spark,R",50
+ML Engineer,Remote,96181,Junior,Medium,"PyTorch,R",0
+Data Engineer,United Kingdom,90348,Mid,Small,"AWS,TensorFlow,GCP",0
+ML Engineer,Germany,113088,Mid,Small,"PyTorch,GCP",0
+Research Scientist,United States,103701,Junior,Medium,"Tableau,PyTorch",50
+Data Analyst,India,17341,Junior,Large,"Python,Tableau",50
+Data Engineer,Remote,69112,Junior,Small,"TensorFlow,Tableau",50
+ML Engineer,Canada,80121,Junior,Small,"R,GCP,AWS",0
+Research Scientist,India,74198,Executive,Large,"Tableau,Spark,R,Python",100
+Data Engineer,India,66620,Executive,Large,"AWS,SQL",50
+Research Scientist,Remote,166253,Senior,Small,"AWS,SQL",100
+Data Engineer,United States,232251,Executive,Medium,"Python,SQL,R,Spark",0
+Data Analyst,Remote,57962,Junior,Medium,"Tableau,Spark,TensorFlow",100
+ML Engineer,Germany,91240,Junior,Large,"Tableau,TensorFlow",50
+Research Scientist,Germany,116884,Junior,Large,"TensorFlow,Python",50
+ML Engineer,United Kingdom,138441,Senior,Small,"Tableau,Python,R",100
+ML Engineer,United States,163754,Mid,Medium,"GCP,Spark,Tableau,TensorFlow",100
+Data Analyst,Remote,49055,Junior,Small,"Tableau,Python",0
+Data Analyst,India,31002,Senior,Medium,"SQL,R,GCP,PyTorch",100
+Research Scientist,Canada,168944,Mid,Large,"TensorFlow,Tableau",100
+Research Scientist,United States,102362,Junior,Medium,"GCP,R",50
+Data Analyst,Germany,54922,Junior,Medium,"SQL,TensorFlow,Spark",50
+Data Engineer,Remote,192260,Senior,Medium,"AWS,PyTorch,SQL",50
+Data Scientist,Remote,105121,Junior,Large,"SQL,Python,PyTorch,AWS",100
+ML Engineer,Germany,211626,Executive,Medium,"PyTorch,Tableau,Spark",50
+Data Analyst,Germany,42141,Junior,Small,"Spark,GCP",100
+Data Analyst,India,23740,Mid,Medium,"Spark,GCP,R,TensorFlow",0
+Data Scientist,Germany,63091,Junior,Medium,"Python,SQL",50
+Data Scientist,United Kingdom,151153,Executive,Small,"SQL,Python,Tableau",100
+Data Engineer,Remote,95833,Junior,Large,"GCP,AWS",50
+Data Engineer,Canada,71488,Junior,Medium,"Python,GCP",50
+Data Scientist,United Kingdom,58709,Junior,Small,"R,Tableau,AWS",100
+Data Engineer,United Kingdom,89786,Mid,Medium,"R,GCP,Spark",0
+ML Engineer,Canada,152066,Senior,Small,"PyTorch,R",50
+Data Scientist,Canada,174436,Executive,Medium,"R,TensorFlow",100
+Data Analyst,India,45015,Executive,Small,"GCP,TensorFlow,PyTorch",100
+ML Engineer,India,50207,Senior,Medium,"PyTorch,Python,AWS,SQL",0
+Research Scientist,Remote,215250,Senior,Medium,"Python,AWS",100
+Data Scientist,Germany,112518,Senior,Small,"R,AWS,GCP",50
+Data Engineer,Remote,136984,Senior,Small,"R,TensorFlow",50
+Research Scientist,Remote,166997,Mid,Medium,"GCP,Tableau,TensorFlow,SQL",50
+Data Scientist,Canada,117530,Senior,Small,"R,AWS,Spark",0
+ML Engineer,Germany,116636,Mid,Medium,"Tableau,Python,TensorFlow,PyTorch",50
+Data Engineer,Remote,213199,Executive,Small,"AWS,Python",50
+Data Engineer,Germany,202552,Senior,Large,"AWS,R",100
+Data Analyst,Canada,51364,Junior,Medium,"SQL,Python,Tableau,Spark",100
+Data Engineer,Germany,105169,Mid,Medium,"GCP,Spark,SQL",50
+Research Scientist,United States,136477,Mid,Small,"SQL,R,PyTorch",0
+Research Scientist,Remote,296652,Executive,Small,"TensorFlow,SQL,AWS",0
+Data Engineer,United Kingdom,68735,Junior,Medium,"PyTorch,Spark,SQL,AWS",100
+Data Engineer,Canada,136141,Senior,Small,"TensorFlow,SQL,AWS,Tableau",100
+ML Engineer,India,24680,Junior,Medium,"TensorFlow,Spark",50
+Research Scientist,United States,169764,Junior,Large,"Python,GCP,PyTorch,R",0
+Data Analyst,Canada,66039,Junior,Large,"R,TensorFlow",0
+Data Analyst,United Kingdom,122580,Executive,Small,"GCP,PyTorch,Tableau",50
+Data Analyst,India,20086,Mid,Small,"PyTorch,SQL,Python,Tableau",100
+Data Scientist,India,27350,Mid,Medium,"AWS,R",100
+Data Analyst,United Kingdom,141560,Executive,Medium,"SQL,GCP",50
+Data Scientist,Canada,171701,Executive,Medium,"Tableau,SQL,Spark",0
+Data Scientist,United States,265863,Senior,Large,"Tableau,Python,PyTorch",0
+Data Analyst,India,41763,Executive,Large,"Python,Tableau",100
+Data Analyst,Remote,67513,Junior,Large,"Python,PyTorch",50
+Data Scientist,India,16885,Junior,Small,"PyTorch,SQL,Spark",100
+ML Engineer,United States,118106,Mid,Small,"GCP,AWS",0
+Data Analyst,India,17800,Junior,Large,"Spark,Tableau,PyTorch",50
+ML Engineer,India,30127,Junior,Large,"PyTorch,R,TensorFlow,AWS",100
+Data Analyst,United States,216447,Executive,Large,"SQL,Python",0
+Data Analyst,Remote,109820,Executive,Small,"Spark,Tableau,R,Python",50
+ML Engineer,Canada,139791,Mid,Medium,"AWS,SQL,TensorFlow,Python",0
+Research Scientist,Canada,125115,Mid,Small,"R,AWS",100
+Research Scientist,India,41032,Mid,Medium,"AWS,Tableau,R",0
+Data Scientist,United States,190509,Executive,Small,"AWS,SQL",0
+Data Analyst,United Kingdom,94563,Senior,Medium,"R,PyTorch,Tableau,SQL",0
+Research Scientist,Canada,238496,Executive,Small,"AWS,R,TensorFlow,Spark",50
+Data Analyst,United Kingdom,179852,Executive,Large,"Tableau,PyTorch,Python,R",50
+Data Analyst,United States,142612,Senior,Small,"PyTorch,AWS",0
+Data Scientist,India,42346,Senior,Medium,"Python,GCP,Spark,SQL",100
+Data Analyst,India,33169,Senior,Medium,"PyTorch,GCP,SQL,TensorFlow",0
+Data Engineer,Remote,244419,Executive,Medium,"Spark,GCP",0
+Data Engineer,Canada,83786,Junior,Medium,"Python,PyTorch",50
+Data Analyst,Canada,40731,Junior,Medium,"Tableau,Python,Spark",0
+ML Engineer,Canada,67923,Junior,Small,"Tableau,R,Python,Spark",50
+Data Engineer,United States,275423,Executive,Small,"Spark,PyTorch,Tableau,GCP",50
+ML Engineer,United Kingdom,108880,Mid,Small,"Python,SQL",50
+Data Scientist,India,18067,Junior,Small,"TensorFlow,PyTorch,R,Python",50
+ML Engineer,India,20891,Junior,Medium,"Python,SQL",0
+Data Analyst,United States,160152,Senior,Large,"Python,Tableau",50
+ML Engineer,Germany,289750,Executive,Large,"Spark,Tableau",100
+Research Scientist,Germany,182081,Mid,Large,"Tableau,PyTorch",50
+Research Scientist,United States,123282,Junior,Medium,"Spark,R,Python,PyTorch",0
+Data Analyst,Canada,67182,Mid,Medium,"TensorFlow,SQL,Tableau,R",0
+ML Engineer,India,58794,Senior,Medium,"Tableau,R,AWS",50
+Data Engineer,Germany,120816,Mid,Large,"Spark,PyTorch,AWS,Tableau",0
+Data Analyst,United States,197086,Executive,Small,"GCP,Python,PyTorch",50
+Data Engineer,United States,86576,Junior,Medium,"AWS,Python",50
+Data Scientist,United Kingdom,153984,Senior,Medium,"Python,GCP,AWS,Tableau",50
+Data Scientist,Canada,80168,Mid,Small,"AWS,Spark,Python",0
+Data Analyst,United States,56653,Junior,Small,"GCP,Spark",0
+Research Scientist,India,78209,Executive,Medium,"PyTorch,SQL,TensorFlow,R",0
+Data Engineer,Canada,71982,Junior,Medium,"TensorFlow,AWS,PyTorch",100
+Data Analyst,United Kingdom,88208,Mid,Large,"Tableau,AWS,SQL,R",50
+Research Scientist,Remote,265146,Executive,Medium,"AWS,PyTorch,SQL,Python",50
+ML Engineer,Germany,83202,Junior,Medium,"Spark,Tableau,PyTorch,R",100
+Data Analyst,India,33162,Executive,Small,"AWS,SQL",100
+Research Scientist,United Kingdom,207164,Senior,Medium,"Tableau,R,PyTorch,SQL",100
+Research Scientist,Germany,158908,Mid,Medium,"GCP,Tableau,PyTorch",0
+Research Scientist,Canada,115432,Mid,Small,"GCP,Python,Spark",0
+Data Analyst,United States,156728,Executive,Medium,"AWS,Spark,R",0
+ML Engineer,India,43189,Senior,Small,"Python,GCP",50
+Data Scientist,Canada,159538,Senior,Medium,"TensorFlow,AWS",0
+Research Scientist,Germany,160866,Senior,Medium,"Spark,GCP,Tableau,AWS",100
+Data Scientist,Germany,176181,Executive,Small,"PyTorch,AWS,Python,R",100
+Research Scientist,United Kingdom,65600,Junior,Small,"R,Spark",100
+Data Engineer,United Kingdom,74797,Junior,Medium,"Tableau,PyTorch,AWS,Python",100
+ML Engineer,Germany,82037,Junior,Small,"TensorFlow,Spark,PyTorch",0
+Data Analyst,Germany,55733,Junior,Large,"AWS,R,PyTorch",50
+Research Scientist,Canada,234304,Executive,Small,"AWS,PyTorch,SQL",100
+Data Scientist,Germany,138353,Senior,Medium,"Tableau,SQL",50
+Data Engineer,Canada,151210,Senior,Small,"R,GCP",100
+Data Scientist,India,55094,Executive,Small,"PyTorch,Python",50
+Data Analyst,Canada,54638,Mid,Small,"R,GCP,Tableau,Spark",50
+Data Analyst,Canada,98116,Senior,Medium,"PyTorch,Tableau,GCP",0
+Data Engineer,United States,90283,Junior,Medium,"AWS,Tableau,GCP",50
+ML Engineer,Canada,215372,Executive,Small,"PyTorch,R",0
+Data Scientist,Remote,145572,Mid,Large,"R,SQL,TensorFlow",100
+Data Scientist,Canada,264847,Executive,Large,"TensorFlow,R,Spark",0
+Research Scientist,Canada,241603,Executive,Small,"Spark,AWS",100
+Data Scientist,Germany,96592,Mid,Medium,"PyTorch,Spark,SQL",0
+Data Scientist,Germany,128244,Mid,Large,"SQL,AWS,TensorFlow,Spark",50
+Data Engineer,United Kingdom,85908,Mid,Small,"PyTorch,AWS",50
+Data Engineer,United States,91344,Junior,Medium,"SQL,TensorFlow,AWS,Tableau",0
+Data Scientist,Remote,192177,Executive,Small,"Spark,GCP,Tableau",50
+ML Engineer,United Kingdom,281075,Executive,Large,"TensorFlow,PyTorch",100
+Data Engineer,Germany,88820,Junior,Large,"AWS,PyTorch",100
+ML Engineer,United Kingdom,116368,Mid,Large,"SQL,Tableau",0
+Research Scientist,India,29838,Junior,Medium,"Python,AWS,GCP,Spark",100
+Data Engineer,United Kingdom,100575,Mid,Medium,"SQL,Spark,TensorFlow,Python",100
+Data Analyst,India,35665,Executive,Small,"R,SQL",50
+Research Scientist,Remote,128352,Junior,Large,"TensorFlow,Python,AWS,Spark",100
+Data Analyst,Canada,179365,Executive,Large,"R,AWS,GCP,Spark",100
+Research Scientist,United States,232928,Senior,Medium,"TensorFlow,GCP,Python",0
+Research Scientist,Germany,178587,Mid,Large,"TensorFlow,Python,Spark,GCP",100
+Data Analyst,Canada,42375,Junior,Small,"Tableau,Spark,PyTorch",50
+ML Engineer,United States,192703,Mid,Large,"PyTorch,TensorFlow,GCP,AWS",100
+Data Analyst,Canada,107887,Senior,Large,"SQL,R",100
+ML Engineer,United Kingdom,80633,Junior,Small,"TensorFlow,Python,SQL,Tableau",50
+Research Scientist,Germany,143250,Mid,Small,"GCP,TensorFlow,R,PyTorch",100
+ML Engineer,United States,287085,Executive,Small,"R,SQL",100
+Data Engineer,United States,134920,Mid,Medium,"Python,R,Tableau",0
+Data Engineer,Canada,78436,Junior,Large,"Tableau,SQL,TensorFlow,PyTorch",50
+Research Scientist,Germany,157280,Mid,Large,"TensorFlow,PyTorch,Python,R",0
+Data Scientist,United States,135802,Mid,Small,"AWS,TensorFlow",100
+Data Engineer,India,58082,Executive,Medium,"Python,Tableau,SQL",0
+ML Engineer,India,80574,Executive,Large,"GCP,AWS,PyTorch,TensorFlow",0
+Data Engineer,Canada,112052,Mid,Medium,"SQL,TensorFlow,PyTorch",0
+Data Analyst,United Kingdom,53582,Junior,Small,"GCP,Spark,AWS,PyTorch",100
+Data Scientist,Remote,291211,Executive,Large,"AWS,TensorFlow",50
+Research Scientist,Canada,167403,Senior,Small,"R,PyTorch",0
+Data Analyst,United Kingdom,84090,Senior,Small,"Spark,R,GCP",50
+ML Engineer,Germany,107782,Junior,Large,"GCP,SQL",50
+Data Scientist,Germany,68716,Junior,Large,"Spark,AWS",50
+Data Scientist,Germany,87851,Junior,Large,"PyTorch,TensorFlow,SQL,Spark",0
+Research Scientist,Remote,289391,Executive,Medium,"GCP,Spark,PyTorch",50
+Data Analyst,Canada,85681,Senior,Small,"PyTorch,SQL,R",0
+Data Engineer,United Kingdom,143736,Senior,Medium,"TensorFlow,Tableau",0
+Data Analyst,United Kingdom,51275,Junior,Small,"R,PyTorch,AWS,Tableau",0
+ML Engineer,Germany,275022,Executive,Large,"Spark,AWS",50
+Data Analyst,India,33593,Executive,Small,"GCP,Python,AWS,Tableau",50
+Data Analyst,India,14234,Junior,Medium,"Python,R",0
+Data Scientist,Germany,102888,Mid,Medium,"SQL,TensorFlow",100
+Data Scientist,India,34921,Mid,Large,"Python,SQL,TensorFlow",50
+ML Engineer,Remote,119803,Mid,Small,"Spark,AWS",0
+Data Analyst,United Kingdom,142821,Executive,Large,"Spark,AWS,GCP",50
+Data Engineer,India,38682,Mid,Large,"Spark,AWS",0
+Data Engineer,Remote,320542,Executive,Large,"AWS,PyTorch,R",0
+Research Scientist,India,66584,Executive,Small,"Python,Tableau,AWS",0
+Research Scientist,United Kingdom,238506,Executive,Small,"Tableau,PyTorch",100
+Data Scientist,United Kingdom,214752,Executive,Small,"AWS,TensorFlow,GCP",0
+Data Analyst,Canada,112811,Senior,Medium,"Spark,AWS",0
+Data Scientist,Canada,79459,Mid,Small,"SQL,Spark",100
+Research Scientist,United Kingdom,276430,Executive,Medium,"GCP,Tableau,AWS,Python",100
+Data Engineer,Germany,57322,Junior,Small,"PyTorch,Tableau",100
+ML Engineer,Canada,92729,Junior,Large,"Tableau,AWS,Python,R",100
+Data Engineer,United States,112004,Junior,Large,"Tableau,Python",0
+Research Scientist,United States,306465,Executive,Medium,"TensorFlow,GCP,SQL",100
+Data Analyst,Germany,145445,Executive,Medium,"Spark,Tableau,R,SQL",0
+Data Scientist,United Kingdom,141521,Senior,Medium,"SQL,Spark",100
+Data Engineer,India,70231,Executive,Large,"AWS,TensorFlow,GCP",0
+Data Scientist,United States,193082,Senior,Small,"Tableau,PyTorch,GCP,AWS",100
+Research Scientist,Remote,77334,Junior,Small,"R,SQL,GCP",0
+Data Analyst,Canada,104695,Senior,Small,"PyTorch,Tableau",100
+Data Engineer,United States,147843,Mid,Medium,"Spark,AWS",100
+Research Scientist,United States,145400,Junior,Large,"R,Python,Tableau",100
+Data Analyst,Germany,116936,Senior,Medium,"TensorFlow,Spark,GCP",0
+Data Scientist,Germany,82614,Mid,Small,"Spark,R,GCP,Tableau",50
+ML Engineer,United States,178273,Mid,Medium,"TensorFlow,Python",0
+Data Analyst,Remote,126075,Senior,Large,"Spark,Tableau,R,Python",0
+Data Engineer,Remote,66342,Junior,Medium,"Spark,SQL",0
+Data Scientist,United Kingdom,88617,Junior,Large,"AWS,PyTorch,GCP,TensorFlow",50
+Data Engineer,United Kingdom,173336,Senior,Large,"Tableau,R,GCP,PyTorch",50
+Research Scientist,India,42441,Mid,Large,"GCP,R,PyTorch",0
+ML Engineer,India,19984,Junior,Medium,"Tableau,Python",0
+Data Scientist,Canada,258255,Executive,Large,"PyTorch,GCP",50
+Data Scientist,India,37707,Mid,Large,"GCP,Tableau,Python",0
+ML Engineer,United States,263656,Senior,Medium,"Tableau,AWS,R,PyTorch",100
+Data Scientist,Canada,178962,Senior,Large,"Spark,GCP,R,TensorFlow",50
+ML Engineer,Remote,119556,Mid,Small,"TensorFlow,Python,SQL,PyTorch",100
+Research Scientist,Remote,245292,Senior,Medium,"PyTorch,Tableau,TensorFlow",50
+ML Engineer,United States,236163,Senior,Small,"Spark,TensorFlow",100
+Data Analyst,Remote,70297,Mid,Medium,"Python,Spark,Tableau,SQL",0
+Research Scientist,Germany,135186,Mid,Large,"PyTorch,R",0
+Data Scientist,Remote,102371,Mid,Small,"AWS,Spark",100
+ML Engineer,Germany,87930,Junior,Small,"TensorFlow,Tableau,SQL,AWS",0
+Research Scientist,Remote,352565,Executive,Large,"Spark,Tableau",0
+Research Scientist,United States,196331,Mid,Large,"TensorFlow,Spark",100
+Data Scientist,Remote,56107,Junior,Small,"R,Python,Spark,SQL",0
+Data Engineer,Canada,116753,Mid,Medium,"PyTorch,TensorFlow,SQL",50
+Data Engineer,India,67425,Senior,Large,"Python,GCP,PyTorch",100
+Research Scientist,United States,230658,Senior,Small,"GCP,PyTorch,TensorFlow",0
+Data Scientist,India,25345,Junior,Large,"AWS,TensorFlow",0
+ML Engineer,India,29651,Junior,Large,"R,TensorFlow",0
+Research Scientist,United Kingdom,218647,Executive,Medium,"Spark,SQL",100
+Data Scientist,Remote,100307,Junior,Large,"TensorFlow,GCP,Tableau,Spark",50
+ML Engineer,India,71521,Executive,Medium,"R,SQL,PyTorch",0
+Research Scientist,Remote,193917,Senior,Small,"Python,TensorFlow,R,PyTorch",100
+Data Engineer,United Kingdom,220980,Executive,Large,"PyTorch,Spark,Tableau",0
+Data Analyst,United States,91931,Mid,Medium,"Tableau,AWS",0
+ML Engineer,Germany,107282,Junior,Large,"Tableau,AWS,R",0
+Data Engineer,Germany,104451,Mid,Small,"Tableau,TensorFlow",50
+Data Analyst,United Kingdom,110358,Senior,Small,"Python,GCP,PyTorch",50
+Data Scientist,United Kingdom,113012,Mid,Large,"SQL,Tableau,Spark",100
+Data Engineer,Canada,156493,Senior,Large,"SQL,Spark,Python,Tableau",0
+Research Scientist,Canada,303688,Executive,Large,"SQL,Tableau,GCP,Spark",100
+Research Scientist,Canada,138347,Mid,Medium,"GCP,Tableau,R",100
+Research Scientist,United Kingdom,213736,Executive,Small,"R,AWS,TensorFlow",100
+Research Scientist,United Kingdom,158952,Mid,Large,"Tableau,TensorFlow,Spark",50
+ML Engineer,United Kingdom,208461,Executive,Small,"R,Spark",0
+ML Engineer,United States,392743,Executive,Large,"GCP,PyTorch,Tableau,Python",0
+Data Analyst,India,43097,Executive,Medium,"R,GCP",100
+Data Engineer,United Kingdom,59044,Junior,Small,"PyTorch,Spark,TensorFlow,R",100
+Data Analyst,United States,114121,Senior,Medium,"Spark,SQL,AWS",100
+ML Engineer,Germany,254131,Executive,Medium,"Spark,GCP,Tableau",50
+Data Analyst,Remote,95243,Mid,Large,"GCP,Tableau,SQL,Spark",100
+Research Scientist,United Kingdom,251229,Senior,Large,"TensorFlow,R",100
+Data Scientist,Canada,84763,Mid,Medium,"Tableau,SQL,R,Spark",50
+ML Engineer,India,43950,Mid,Large,"PyTorch,Python,Spark",0
+Data Scientist,Germany,238638,Executive,Large,"GCP,Tableau,Python,SQL",0
+Data Engineer,Remote,281127,Executive,Large,"PyTorch,Python,TensorFlow",50
+Research Scientist,Remote,148737,Mid,Medium,"TensorFlow,PyTorch,AWS,SQL",0
+Research Scientist,United States,346464,Executive,Medium,"SQL,AWS,TensorFlow,Tableau",100
+Research Scientist,India,24845,Junior,Small,"Tableau,PyTorch,R,GCP",100
+Data Scientist,Remote,186527,Executive,Small,"GCP,R",100
+Data Analyst,Germany,87506,Senior,Small,"Python,Spark",50
+Data Engineer,Remote,181274,Executive,Small,"Tableau,TensorFlow,PyTorch",0
+ML Engineer,Canada,144850,Senior,Small,"Tableau,AWS,SQL",0
+Research Scientist,India,31917,Mid,Small,"R,GCP",50
+ML Engineer,Canada,186785,Senior,Medium,"AWS,R,SQL,Spark",100
+Data Scientist,Remote,140777,Senior,Small,"Tableau,Python,GCP",100
+Data Scientist,Germany,124083,Mid,Large,"SQL,R",100
+ML Engineer,India,69174,Executive,Small,"Spark,R,SQL,TensorFlow",100
+Data Engineer,Remote,209911,Senior,Large,"TensorFlow,GCP,SQL,Spark",50
+Research Scientist,Canada,378693,Executive,Large,"R,TensorFlow,GCP",100
+ML Engineer,Germany,173927,Senior,Small,"GCP,Python,Tableau",50
+Data Engineer,United States,201888,Senior,Medium,"PyTorch,AWS",100
+ML Engineer,Germany,76184,Junior,Medium,"Tableau,SQL,PyTorch",100
+Data Analyst,Remote,53323,Junior,Small,"TensorFlow,Spark,PyTorch,Python",50
+ML Engineer,United Kingdom,221994,Executive,Small,"Spark,AWS,R,PyTorch",100
+Data Engineer,Germany,238920,Executive,Large,"SQL,PyTorch,TensorFlow,R",0
+Data Analyst,United States,180857,Executive,Medium,"Tableau,SQL",0
+Research Scientist,United States,180308,Mid,Small,"PyTorch,AWS,Tableau",100
+ML Engineer,India,32316,Mid,Small,"TensorFlow,Tableau",100
+Research Scientist,Remote,90382,Junior,Small,"Spark,Tableau",100
+Research Scientist,Canada,109003,Mid,Medium,"Python,AWS,SQL",0
+Data Analyst,United States,121708,Senior,Medium,"PyTorch,TensorFlow",100
+Research Scientist,Remote,206246,Senior,Small,"SQL,GCP",50
+Research Scientist,Remote,101634,Junior,Large,"AWS,Spark",100
+Data Scientist,India,36211,Mid,Large,"Tableau,GCP",0
+Data Analyst,United Kingdom,152980,Senior,Large,"Spark,R,AWS,PyTorch",0
+Research Scientist,United States,256815,Senior,Large,"Spark,Tableau,AWS",100
+Data Analyst,United Kingdom,131007,Executive,Medium,"Tableau,TensorFlow",100
+Data Analyst,United Kingdom,107824,Senior,Medium,"Python,GCP",0
+Data Analyst,India,31007,Senior,Medium,"TensorFlow,SQL",100
+Data Engineer,India,36419,Senior,Medium,"Python,Spark",0
+Data Analyst,Germany,43453,Junior,Small,"Tableau,TensorFlow,Python,R",100
+ML Engineer,Canada,215646,Senior,Medium,"GCP,SQL,PyTorch,R",100
+Data Engineer,United Kingdom,89502,Junior,Large,"SQL,PyTorch",100
+Data Scientist,India,28694,Mid,Medium,"AWS,PyTorch",100
+Research Scientist,Canada,102784,Mid,Small,"PyTorch,SQL,Tableau,Spark",100
+Data Scientist,United Kingdom,135686,Mid,Large,"Tableau,PyTorch",50
+Data Engineer,United Kingdom,169102,Senior,Large,"SQL,R,Python,PyTorch",100
+Research Scientist,United States,269288,Executive,Small,"SQL,GCP",50
+Research Scientist,Germany,216828,Executive,Small,"PyTorch,R",0
+ML Engineer,Germany,65922,Junior,Small,"SQL,Python,Tableau",50
+Research Scientist,United Kingdom,128487,Mid,Medium,"R,PyTorch",50
+Data Analyst,United States,137423,Executive,Small,"GCP,Spark,Tableau",50
+Research Scientist,India,30310,Junior,Medium,"AWS,PyTorch,Spark,Python",100
+Research Scientist,India,62198,Senior,Medium,"GCP,Tableau,Spark",100
+Research Scientist,Germany,180792,Senior,Medium,"Tableau,Spark,PyTorch,SQL",50
+Data Engineer,India,84033,Executive,Large,"Python,Tableau,TensorFlow",50
+Data Engineer,United States,245642,Executive,Medium,"Spark,SQL,GCP",0
+Data Engineer,Canada,98116,Mid,Small,"Spark,PyTorch,GCP",50
+Data Analyst,United States,208327,Executive,Medium,"AWS,PyTorch",50
+ML Engineer,India,44553,Senior,Small,"Tableau,SQL,Python",50
+Research Scientist,India,78151,Executive,Medium,"Python,SQL,R",0
+Data Analyst,United States,139662,Executive,Small,"GCP,Spark",0
+Data Analyst,Canada,171783,Executive,Large,"R,SQL,Python",0
+Data Analyst,United States,54994,Junior,Medium,"Python,Tableau,GCP,AWS",0
+Research Scientist,United Kingdom,101237,Junior,Large,"R,Python,Spark",50
+Data Scientist,Remote,84486,Mid,Small,"AWS,R",100
+ML Engineer,Canada,123341,Mid,Medium,"PyTorch,Tableau,GCP,Spark",0
+Data Analyst,Remote,145410,Executive,Small,"GCP,R,Tableau,AWS",100
+ML Engineer,Remote,148464,Senior,Small,"SQL,Spark,R,Python",50
+Data Engineer,United Kingdom,121152,Mid,Large,"R,Python,PyTorch,AWS",50
+Data Engineer,United Kingdom,140475,Senior,Medium,"Tableau,PyTorch,Python",100
+ML Engineer,Germany,131835,Mid,Large,"AWS,SQL,Spark,R",100
+Research Scientist,Canada,104628,Mid,Small,"Spark,SQL",0
+Data Engineer,United Kingdom,192188,Executive,Medium,"AWS,Python",50
+Research Scientist,United Kingdom,104625,Junior,Medium,"Spark,PyTorch,R",0
+Data Scientist,United Kingdom,106988,Mid,Medium,"GCP,Python,SQL,Tableau",50
+Data Scientist,India,16052,Junior,Small,"AWS,Spark,Python",50
+Data Analyst,United States,197413,Executive,Large,"PyTorch,SQL,Tableau",100
+Data Analyst,India,54593,Executive,Large,"Spark,Python,SQL,AWS",100
+Data Analyst,Canada,65167,Junior,Large,"Spark,PyTorch,Tableau",0
+Research Scientist,United States,235143,Senior,Medium,"SQL,Python,Spark",100
+Research Scientist,Remote,80927,Junior,Medium,"Spark,R",100
+Research Scientist,United States,212187,Senior,Medium,"SQL,Python",50
+Data Analyst,Remote,53414,Junior,Medium,"Spark,AWS",100
+Data Engineer,United States,165641,Senior,Small,"R,Python",50
+Research Scientist,Remote,239858,Executive,Small,"Python,GCP,TensorFlow,AWS",0
+ML Engineer,United Kingdom,167157,Senior,Medium,"R,GCP",100
+Data Engineer,Germany,166520,Senior,Large,"AWS,R",0
+Data Scientist,Remote,103158,Mid,Small,"GCP,AWS,SQL",0
+Data Scientist,India,54840,Executive,Small,"Spark,R",100
+Data Analyst,India,33284,Senior,Large,"GCP,R",50
+ML Engineer,India,71123,Executive,Medium,"Spark,GCP,Tableau,SQL",0
+Data Engineer,Germany,156916,Senior,Small,"TensorFlow,R,Python",50
+Research Scientist,Germany,231898,Executive,Small,"Python,TensorFlow",100
+Data Scientist,United Kingdom,219148,Executive,Large,"Tableau,Spark",0
+Data Analyst,Remote,83459,Mid,Large,"Tableau,SQL",50
+ML Engineer,United Kingdom,205712,Senior,Large,"Tableau,TensorFlow,SQL",50
+ML Engineer,United Kingdom,150917,Mid,Large,"R,GCP,Tableau",50
+Research Scientist,Canada,95327,Junior,Large,"SQL,Spark",0
+ML Engineer,United States,123052,Junior,Medium,"TensorFlow,Tableau,AWS",0
+Research Scientist,United Kingdom,123951,Mid,Small,"GCP,Spark",100
+Data Scientist,Remote,144291,Senior,Small,"AWS,Tableau",0
+Data Engineer,Remote,185619,Executive,Small,"PyTorch,SQL,AWS,TensorFlow",0
+Data Scientist,Germany,140168,Senior,Small,"Spark,PyTorch",100
+Data Engineer,India,19000,Junior,Small,"TensorFlow,GCP,PyTorch",0
+Data Engineer,Canada,195911,Executive,Small,"Tableau,AWS",0
+Research Scientist,Remote,150475,Mid,Large,"AWS,Spark",0
+Research Scientist,India,63769,Senior,Medium,"Python,TensorFlow,PyTorch,Tableau",100
+ML Engineer,Germany,170173,Senior,Medium,"R,AWS,PyTorch,SQL",100
+Data Analyst,Remote,97854,Senior,Small,"Python,Tableau",0
+Research Scientist,United Kingdom,132022,Mid,Medium,"TensorFlow,SQL",100
+Data Engineer,United Kingdom,115067,Mid,Medium,"GCP,Spark,Python,TensorFlow",50
+ML Engineer,United Kingdom,263627,Executive,Medium,"AWS,TensorFlow,R,SQL",100
+Research Scientist,United Kingdom,110159,Junior,Large,"Spark,AWS,R",100
+Data Analyst,Canada,63157,Junior,Large,"GCP,Tableau,R,AWS",100
+Research Scientist,Canada,186658,Senior,Large,"Python,SQL",50
+ML Engineer,India,100069,Executive,Large,"Tableau,TensorFlow,Spark,R",0
+Research Scientist,United States,180599,Mid,Medium,"Python,AWS,TensorFlow,SQL",50
+ML Engineer,Remote,119276,Mid,Small,"R,SQL",0
+Data Engineer,India,63630,Executive,Small,"PyTorch,AWS,SQL,Tableau",0
+Data Scientist,Canada,84502,Junior,Large,"SQL,TensorFlow",50
+Data Engineer,Canada,109336,Mid,Large,"SQL,Spark,TensorFlow",100
+Data Scientist,Germany,83072,Mid,Small,"Python,Spark,PyTorch,SQL",0
+Research Scientist,India,41531,Mid,Small,"TensorFlow,AWS",100
+Data Engineer,India,41655,Mid,Large,"SQL,TensorFlow,PyTorch,Python",100
+Research Scientist,Canada,137708,Mid,Medium,"Python,R",50
+Data Scientist,United States,303194,Executive,Large,"Spark,PyTorch,R,Tableau",100
+Data Analyst,Remote,62391,Junior,Large,"TensorFlow,Spark",100
+Data Scientist,Remote,207430,Executive,Medium,"AWS,PyTorch,Tableau,R",0
+Research Scientist,Remote,74566,Junior,Small,"AWS,R,Tableau,Spark",0
+Data Analyst,India,45073,Executive,Large,"Python,R",50
+ML Engineer,India,29220,Mid,Medium,"SQL,R",50
+ML Engineer,India,26910,Mid,Small,"AWS,Python",0
+ML Engineer,United States,102921,Junior,Small,"TensorFlow,Tableau,SQL",0
+Data Engineer,United States,91532,Junior,Small,"AWS,TensorFlow,Python,PyTorch",50
+Data Engineer,India,30056,Mid,Medium,"TensorFlow,PyTorch",100
+Data Analyst,United States,177589,Executive,Medium,"PyTorch,AWS,Python,SQL",50
+Data Engineer,United States,216786,Senior,Medium,"TensorFlow,GCP",0
+Data Scientist,India,52278,Executive,Small,"GCP,SQL,R",50
+ML Engineer,Canada,84341,Junior,Medium,"TensorFlow,SQL,AWS,GCP",0
+Data Scientist,Canada,155887,Senior,Medium,"R,AWS,PyTorch,Python",0
+ML Engineer,India,77806,Executive,Medium,"AWS,TensorFlow",0
+Data Analyst,United States,242892,Executive,Large,"AWS,Spark,Tableau,PyTorch",50
+Data Analyst,Canada,68432,Mid,Medium,"PyTorch,SQL",100
+Data Scientist,Remote,177782,Senior,Medium,"Tableau,AWS,SQL",0
+Data Engineer,United Kingdom,105156,Mid,Medium,"AWS,SQL,GCP",50
+Research Scientist,Germany,306885,Executive,Medium,"AWS,SQL,TensorFlow",50
+ML Engineer,Germany,208637,Executive,Medium,"Python,Tableau,Spark",100
+Research Scientist,United Kingdom,303585,Executive,Large,"R,Spark,Tableau,Python",100
+ML Engineer,India,27612,Junior,Large,"AWS,TensorFlow",0
+Data Scientist,United Kingdom,79003,Mid,Medium,"Python,Tableau",50
+Data Scientist,India,24120,Mid,Small,"PyTorch,R",50
+Data Engineer,Canada,81480,Mid,Small,"Tableau,Spark,AWS",100
+ML Engineer,United States,221260,Senior,Small,"GCP,Python,Tableau",0
+Data Engineer,Germany,78065,Junior,Medium,"SQL,Python,GCP",100
+Data Scientist,United States,99871,Mid,Medium,"Python,Spark,SQL",0
+ML Engineer,India,43344,Mid,Large,"SQL,TensorFlow,R",100
+Data Engineer,Germany,62977,Junior,Medium,"PyTorch,Spark,SQL,Python",50
+Research Scientist,United States,117099,Junior,Medium,"AWS,Tableau,GCP",50
+Research Scientist,Remote,250724,Executive,Small,"Tableau,AWS,Spark",0
+Data Scientist,Germany,133934,Mid,Large,"Tableau,TensorFlow,Python",0
+Data Scientist,India,18793,Junior,Small,"Python,TensorFlow,Tableau",50
+ML Engineer,Germany,236243,Executive,Medium,"Python,GCP",100
+Data Analyst,United States,200782,Executive,Large,"Spark,GCP",50
+Data Analyst,United Kingdom,147831,Senior,Large,"PyTorch,Tableau",0
+Research Scientist,Canada,110063,Junior,Large,"R,Python,TensorFlow,AWS",50
+Research Scientist,United States,293863,Executive,Small,"GCP,PyTorch",100
+Data Engineer,Canada,229276,Executive,Medium,"SQL,R,GCP",100
+Data Scientist,Remote,127035,Senior,Small,"Python,PyTorch",0
+Data Analyst,India,42408,Executive,Small,"TensorFlow,Python,AWS,GCP",50
+Data Scientist,Remote,185667,Executive,Small,"SQL,AWS",100
+Data Engineer,United States,354959,Executive,Large,"TensorFlow,Tableau,PyTorch,Python",0
+ML Engineer,United States,423947,Executive,Large,"TensorFlow,Spark,Tableau,PyTorch",50
+Data Scientist,Canada,174289,Senior,Large,"Spark,Tableau,PyTorch",100
+Research Scientist,Germany,202448,Senior,Large,"R,SQL,Python",50
+Research Scientist,Canada,163875,Senior,Medium,"Tableau,Python",0
+Data Analyst,Canada,191735,Executive,Large,"Spark,SQL,TensorFlow",50
+Data Engineer,Remote,169173,Senior,Large,"GCP,SQL",0
+Data Engineer,United States,175827,Mid,Large,"PyTorch,Tableau",0
+Research Scientist,United Kingdom,105208,Junior,Medium,"TensorFlow,Tableau,PyTorch",100
+Data Analyst,Germany,79782,Mid,Medium,"TensorFlow,AWS",0
+ML Engineer,India,28691,Junior,Large,"TensorFlow,R",100
+ML Engineer,Canada,71912,Junior,Small,"Spark,AWS,TensorFlow,GCP",50
+ML Engineer,Germany,84626,Junior,Small,"Tableau,PyTorch,Spark,Python",50
+ML Engineer,United States,179825,Senior,Small,"R,SQL,Python",50
+Research Scientist,India,34003,Mid,Small,"Tableau,TensorFlow,Spark,PyTorch",0
+Data Analyst,Germany,57407,Junior,Large,"R,Tableau,AWS",100
+ML Engineer,United Kingdom,282497,Executive,Medium,"PyTorch,Python,GCP,Spark",50
+Data Analyst,Remote,119983,Senior,Medium,"Tableau,AWS,Python",100
+ML Engineer,United Kingdom,93753,Mid,Small,"SQL,AWS,R",100
+Data Analyst,Canada,81772,Mid,Large,"SQL,PyTorch,AWS,R",50
+Data Analyst,Germany,103417,Senior,Medium,"PyTorch,R,Spark",100
+Data Engineer,Remote,95646,Mid,Medium,"Spark,Tableau",50
+Data Engineer,United Kingdom,118198,Senior,Small,"Tableau,Spark",50
+ML Engineer,Canada,202949,Executive,Medium,"Python,R",50
+ML Engineer,Germany,68271,Junior,Small,"PyTorch,R,GCP",50
+Data Analyst,Germany,137465,Senior,Large,"Python,PyTorch,R",100
+Research Scientist,United States,98048,Junior,Small,"AWS,Tableau",100
+Research Scientist,India,35140,Mid,Medium,"Tableau,Python,TensorFlow,R",0
+Data Engineer,India,64155,Executive,Small,"Spark,R,TensorFlow,AWS",50
+Data Analyst,United States,105581,Senior,Small,"SQL,Tableau",50
+Research Scientist,Canada,166332,Mid,Large,"Spark,PyTorch,TensorFlow,Tableau",100
+Research Scientist,Germany,98139,Junior,Large,"Tableau,GCP",50
+Research Scientist,United Kingdom,129945,Mid,Small,"Spark,AWS,TensorFlow,Python",100
+Data Analyst,Remote,127354,Senior,Small,"GCP,PyTorch,TensorFlow,Tableau",50
+Data Engineer,United Kingdom,295874,Executive,Large,"Tableau,GCP,TensorFlow,PyTorch",50
+Data Analyst,United Kingdom,121509,Senior,Large,"SQL,Spark,GCP",50
+Research Scientist,India,43364,Mid,Medium,"PyTorch,TensorFlow",0
+Research Scientist,India,50390,Mid,Large,"R,GCP,Tableau",100
+Research Scientist,United Kingdom,102853,Junior,Medium,"PyTorch,Python,TensorFlow",0
+Research Scientist,Remote,119306,Junior,Large,"SQL,Tableau,GCP",50
+Data Engineer,India,18493,Junior,Medium,"GCP,SQL",100
+Research Scientist,United States,116263,Junior,Small,"TensorFlow,GCP",100
+Research Scientist,Canada,172294,Mid,Large,"PyTorch,GCP,Tableau",100
+Data Engineer,India,59145,Executive,Small,"Python,Tableau,TensorFlow",50
+Data Analyst,Remote,57574,Junior,Large,"GCP,R",100
+ML Engineer,Remote,232947,Executive,Small,"AWS,Tableau,PyTorch",100
+Data Scientist,India,35887,Senior,Small,"AWS,Spark,R,Python",100
+Data Scientist,India,39179,Mid,Large,"Spark,PyTorch,Tableau,AWS",0
+Data Analyst,Germany,64635,Mid,Small,"R,PyTorch",100
+Data Scientist,Canada,216870,Executive,Large,"Tableau,R,AWS",0
+Data Engineer,Remote,113771,Mid,Small,"Tableau,TensorFlow,SQL,Python",50
+Data Scientist,Canada,95330,Mid,Medium,"PyTorch,Tableau,AWS",100
+Research Scientist,India,77036,Executive,Small,"AWS,Tableau,Spark,R",0
+Research Scientist,Canada,117930,Mid,Small,"GCP,SQL",50
+Data Scientist,Remote,258563,Executive,Medium,"PyTorch,GCP",100
+ML Engineer,India,33157,Mid,Medium,"PyTorch,SQL,Python",100
+Data Scientist,Germany,179361,Executive,Small,"SQL,TensorFlow,Spark",50
+Data Analyst,Canada,96520,Senior,Medium,"TensorFlow,PyTorch",100
+Data Scientist,India,19530,Junior,Medium,"Python,SQL",100
+Data Scientist,India,22761,Junior,Medium,"TensorFlow,Python,R,Spark",0
+ML Engineer,Germany,107903,Mid,Small,"AWS,Tableau,Spark",50
+Data Analyst,Remote,71748,Junior,Large,"Spark,Python,AWS",100
+Data Analyst,United States,132468,Senior,Small,"TensorFlow,Python,PyTorch,AWS",50
+Research Scientist,Germany,82428,Junior,Small,"Spark,AWS,GCP,Tableau",0
+Data Scientist,India,22659,Junior,Medium,"PyTorch,AWS,TensorFlow,R",0
+Data Scientist,India,52471,Executive,Small,"GCP,SQL",0
+Data Analyst,India,18250,Junior,Large,"Python,PyTorch,TensorFlow",100
+Data Engineer,United States,87925,Junior,Small,"Tableau,Spark",50
+Data Engineer,United Kingdom,124024,Mid,Large,"TensorFlow,GCP,R,PyTorch",0
+ML Engineer,United Kingdom,76748,Junior,Medium,"AWS,Spark",0
+ML Engineer,Remote,373587,Executive,Large,"GCP,PyTorch,Tableau,Python",100
+Data Engineer,India,34107,Mid,Large,"AWS,TensorFlow,Python,GCP",100
+Data Engineer,India,23182,Junior,Medium,"GCP,TensorFlow,AWS,R",0
+Data Scientist,United Kingdom,162876,Executive,Medium,"Tableau,SQL,Spark,Python",100
+Data Scientist,India,57861,Executive,Large,"R,Python",50
+Data Scientist,United Kingdom,150837,Senior,Medium,"GCP,SQL,AWS,Python",0
+Data Analyst,India,16692,Junior,Medium,"R,TensorFlow",0
+Data Scientist,United Kingdom,153948,Senior,Medium,"TensorFlow,Spark",100
+Research Scientist,Remote,109173,Junior,Medium,"Spark,AWS,Python",50
+Data Analyst,United States,165427,Executive,Medium,"Spark,GCP,Python,AWS",0
+Data Engineer,India,20653,Junior,Medium,"Python,GCP,Spark,AWS",0
+Data Scientist,United States,83133,Junior,Small,"Tableau,TensorFlow",0
+Research Scientist,India,60696,Senior,Medium,"SQL,Spark,PyTorch",100
+ML Engineer,Canada,107727,Mid,Small,"AWS,Tableau,TensorFlow",100
+ML Engineer,India,63966,Executive,Medium,"AWS,GCP,Tableau,Spark",100
+Data Analyst,United States,72785,Mid,Small,"R,GCP",50
+Research Scientist,India,25786,Junior,Medium,"TensorFlow,Spark,Python",50
+Data Analyst,India,45584,Executive,Small,"GCP,Tableau,PyTorch,R",0
+Data Analyst,United Kingdom,150306,Executive,Medium,"R,Python,GCP",0
+Data Analyst,Remote,127155,Senior,Large,"Python,TensorFlow,AWS,SQL",100
+Data Analyst,Germany,76656,Mid,Medium,"PyTorch,Python,Tableau",100
+Research Scientist,India,60116,Senior,Medium,"Tableau,Spark,TensorFlow",0
+Data Analyst,United Kingdom,84388,Senior,Small,"Tableau,Python",50
+Data Scientist,United States,198544,Senior,Large,"GCP,Tableau",50
+ML Engineer,Germany,237221,Executive,Small,"AWS,Tableau,SQL",50
+Data Scientist,Remote,131922,Mid,Large,"GCP,Python,SQL",50
+Data Scientist,India,44759,Executive,Small,"Python,Tableau,AWS,SQL",0
+Data Engineer,Germany,161872,Senior,Medium,"Spark,GCP,SQL",0
+Data Engineer,Remote,233427,Executive,Large,"Spark,Python,GCP,SQL",50
+Data Engineer,Germany,204978,Executive,Small,"Python,R,GCP,Tableau",100
+Data Analyst,United Kingdom,171614,Executive,Large,"Python,TensorFlow,SQL,Spark",100
+Data Engineer,United States,240362,Executive,Small,"R,PyTorch,GCP",100
+Data Engineer,Germany,207937,Senior,Large,"Spark,Tableau,R,TensorFlow",100
+Research Scientist,United States,216475,Mid,Large,"PyTorch,R,Spark",100
+Data Engineer,Canada,60414,Junior,Medium,"Tableau,R,SQL",0
+ML Engineer,United Kingdom,86622,Junior,Large,"SQL,GCP",100
+Data Engineer,Canada,100791,Mid,Medium,"Tableau,Python",100
+ML Engineer,United Kingdom,79335,Junior,Medium,"Python,Tableau,R",100
+Data Scientist,United States,192441,Senior,Medium,"SQL,R,GCP",50
+ML Engineer,United States,110143,Junior,Small,"PyTorch,Tableau",0
+Data Scientist,United States,206405,Senior,Medium,"Spark,SQL,AWS",100
+Research Scientist,Germany,191325,Senior,Medium,"Tableau,R,Python,SQL",100
+Data Analyst,United Kingdom,117495,Senior,Large,"AWS,TensorFlow,SQL",0
+Data Engineer,Canada,128068,Senior,Small,"PyTorch,SQL,Tableau",50
+ML Engineer,United States,144798,Junior,Large,"GCP,TensorFlow",100
+ML Engineer,Remote,118290,Junior,Large,"Spark,PyTorch",50
+Data Analyst,Remote,110651,Mid,Large,"GCP,TensorFlow,Tableau,R",50
+Research Scientist,Canada,104643,Junior,Medium,"PyTorch,SQL,AWS,TensorFlow",50
+Data Engineer,Germany,197084,Senior,Large,"SQL,TensorFlow,GCP",50
+ML Engineer,India,62922,Executive,Small,"GCP,Tableau",50
+ML Engineer,Germany,196516,Senior,Medium,"Tableau,GCP,TensorFlow,AWS",50
+Data Engineer,United States,143397,Mid,Medium,"Tableau,R,TensorFlow,SQL",0
+Data Analyst,Germany,69423,Mid,Small,"Python,GCP,AWS,Tableau",100
+Data Engineer,United Kingdom,105756,Mid,Medium,"SQL,Spark,PyTorch,Python",0
+ML Engineer,United Kingdom,97912,Mid,Small,"Spark,Python,Tableau,PyTorch",0
+Data Analyst,Canada,73183,Mid,Large,"R,AWS,SQL",50
+Data Scientist,Canada,122635,Mid,Large,"AWS,Spark",0
+Research Scientist,United Kingdom,138012,Mid,Small,"PyTorch,GCP,AWS,SQL",50
+Research Scientist,India,71635,Senior,Large,"AWS,Spark",0
+Data Scientist,Canada,267979,Executive,Large,"SQL,TensorFlow,Tableau,Python",0
+Data Engineer,United States,266139,Senior,Large,"AWS,Tableau,Python",50
+Data Scientist,United States,108816,Junior,Large,"Spark,PyTorch",0
+Data Analyst,United Kingdom,60143,Mid,Small,"SQL,Spark,R",0
+Data Scientist,India,40498,Senior,Medium,"SQL,GCP",50
+Data Analyst,United States,89736,Mid,Small,"R,AWS",50
+Data Analyst,India,21551,Mid,Medium,"TensorFlow,Spark,AWS",50
+ML Engineer,United Kingdom,152134,Senior,Small,"R,Tableau,Python",0
+Research Scientist,United States,349334,Senior,Large,"Python,PyTorch",100
+ML Engineer,India,21323,Junior,Small,"GCP,SQL",100
+Research Scientist,Remote,166172,Mid,Large,"SQL,Tableau,PyTorch",50
+ML Engineer,Germany,305879,Executive,Large,"TensorFlow,SQL",100
+ML Engineer,United Kingdom,182902,Senior,Medium,"Python,Tableau,R,AWS",50
+Data Engineer,India,25125,Mid,Small,"Python,Tableau,PyTorch",100
+Data Scientist,India,54772,Executive,Small,"Python,Tableau,SQL,GCP",50
+Data Scientist,Remote,104065,Mid,Small,"GCP,R,Python",50
+Data Scientist,United States,211352,Senior,Large,"Tableau,SQL,Spark,TensorFlow",50
+ML Engineer,India,37350,Mid,Large,"Tableau,TensorFlow,Spark",100
+Data Analyst,United Kingdom,47749,Junior,Medium,"AWS,R,GCP",50
+Data Engineer,Germany,114902,Mid,Large,"R,GCP,Python,TensorFlow",100
+Research Scientist,Canada,82586,Junior,Medium,"AWS,TensorFlow,SQL",100
+Data Scientist,India,45994,Executive,Small,"Python,AWS",100
+Data Scientist,Germany,124049,Senior,Small,"Spark,AWS,GCP,SQL",0
+Data Engineer,Remote,221968,Executive,Small,"AWS,R,PyTorch,SQL",100
+Data Scientist,Germany,57717,Junior,Small,"Tableau,Spark",0
+Data Engineer,Germany,226495,Executive,Small,"PyTorch,GCP,Spark",50
+Data Engineer,United States,191084,Senior,Small,"AWS,GCP",0
+Data Engineer,Canada,90411,Mid,Medium,"AWS,R",0
+Data Scientist,India,20627,Junior,Medium,"TensorFlow,GCP,Spark,R",0
+Data Scientist,United Kingdom,185890,Executive,Small,"Tableau,AWS,SQL",50
+Data Engineer,United Kingdom,110020,Mid,Medium,"Python,SQL,PyTorch",0
+Data Engineer,Canada,160882,Senior,Small,"Spark,TensorFlow,Python",0
+Data Engineer,United States,124315,Mid,Medium,"GCP,Spark,PyTorch",50
+Data Scientist,United Kingdom,72658,Junior,Large,"Spark,R",50
+Data Scientist,United Kingdom,126963,Senior,Medium,"AWS,SQL,Spark",0
+ML Engineer,United States,133851,Junior,Large,"Tableau,GCP",0
+Data Scientist,United States,90570,Junior,Medium,"Python,PyTorch,Tableau,GCP",100
+Data Engineer,United Kingdom,71892,Junior,Small,"SQL,Spark,PyTorch,Python",50
+Data Engineer,India,27234,Mid,Small,"Python,R,PyTorch,GCP",0
+ML Engineer,United States,135409,Mid,Medium,"AWS,R",100
+Data Analyst,Remote,104130,Senior,Medium,"R,Tableau,Python,SQL",0
+Research Scientist,India,37429,Mid,Medium,"Tableau,PyTorch",0
+Data Engineer,India,33356,Mid,Medium,"R,GCP",50
+Research Scientist,Remote,267318,Senior,Large,"AWS,PyTorch,R",0
+ML Engineer,United States,212622,Senior,Medium,"SQL,Spark",50
+Data Scientist,Remote,292632,Executive,Large,"GCP,PyTorch",0
+Data Scientist,India,21650,Junior,Large,"R,SQL",100
+Data Analyst,India,31835,Senior,Small,"Spark,TensorFlow,PyTorch",100
+ML Engineer,United States,281022,Executive,Small,"R,Spark,Tableau,Python",100
+Data Engineer,India,57866,Senior,Large,"GCP,R,AWS,SQL",50
+Data Analyst,United States,113023,Mid,Large,"Python,AWS,R,TensorFlow",100
+Data Scientist,India,54093,Executive,Medium,"Tableau,SQL",0
+Data Engineer,Remote,172791,Senior,Small,"R,SQL,Tableau,PyTorch",0
+Data Scientist,United Kingdom,157333,Senior,Large,"SQL,Spark",0
+Data Engineer,Germany,189119,Executive,Medium,"Python,TensorFlow",0
+Data Analyst,Germany,74153,Mid,Large,"Spark,SQL",100
+Research Scientist,Germany,157543,Mid,Large,"TensorFlow,PyTorch",0
+Data Scientist,Germany,136483,Mid,Large,"PyTorch,SQL",50
+Data Analyst,India,12251,Junior,Medium,"Spark,Python,Tableau",0
+Data Analyst,Germany,80595,Senior,Small,"Python,AWS,SQL,R",0
+Data Scientist,United States,133574,Mid,Medium,"PyTorch,TensorFlow,Python,SQL",100
+Data Scientist,Canada,117689,Mid,Large,"Spark,SQL,Tableau,AWS",50
+Research Scientist,Canada,118561,Junior,Large,"TensorFlow,Python",0
+Research Scientist,Germany,139598,Mid,Medium,"Tableau,GCP,AWS",50
+Data Analyst,India,44305,Executive,Small,"TensorFlow,Python",50
+Data Analyst,Germany,69205,Mid,Small,"AWS,Spark",100
+Data Engineer,United States,98216,Junior,Small,"TensorFlow,GCP,AWS",100
+Data Analyst,United States,69003,Junior,Large,"Python,TensorFlow,PyTorch,Tableau",0
+ML Engineer,Remote,130501,Junior,Large,"AWS,Python,PyTorch,Spark",0
+Data Scientist,Germany,166428,Senior,Large,"GCP,PyTorch",0
+Data Engineer,Remote,234504,Executive,Small,"GCP,PyTorch",50
+Data Scientist,United Kingdom,144858,Senior,Small,"PyTorch,TensorFlow,Spark,SQL",100
+Data Analyst,India,55248,Executive,Large,"Spark,GCP",50
+ML Engineer,India,49258,Senior,Medium,"AWS,SQL",0
+Research Scientist,Remote,299760,Executive,Large,"Python,Tableau,Spark",50
+Data Engineer,India,23300,Mid,Small,"Spark,R,GCP",0
+ML Engineer,Germany,81315,Junior,Small,"TensorFlow,R,PyTorch,SQL",50
+Data Scientist,United States,92838,Junior,Small,"AWS,PyTorch,R",0
+Data Analyst,Remote,140721,Executive,Small,"PyTorch,Tableau",0
+Data Engineer,Canada,104385,Mid,Medium,"Tableau,GCP,R,AWS",0
+Data Scientist,Remote,186838,Executive,Small,"Python,Spark,R",100
+ML Engineer,Germany,135115,Mid,Large,"Python,TensorFlow",100
+Data Scientist,United Kingdom,215357,Executive,Medium,"TensorFlow,Spark,AWS",0
+ML Engineer,United Kingdom,140772,Senior,Small,"GCP,AWS,Spark",50
+Data Engineer,Germany,72356,Junior,Large,"Tableau,SQL",100
+Data Engineer,India,69266,Executive,Large,"R,PyTorch,AWS",0
+Data Engineer,Canada,167180,Senior,Medium,"TensorFlow,PyTorch,Tableau",100
+Research Scientist,Remote,169225,Mid,Large,"Tableau,AWS,TensorFlow",50
+Data Scientist,Germany,121866,Senior,Medium,"Python,Tableau,R",0
+Data Engineer,Germany,122259,Senior,Small,"GCP,Python",50
+Research Scientist,Germany,126595,Mid,Small,"Tableau,AWS,R,SQL",100
+Data Engineer,United States,165714,Senior,Small,"R,AWS,TensorFlow",0
+Data Engineer,India,54914,Executive,Small,"Tableau,TensorFlow,GCP",0
+Research Scientist,United Kingdom,167012,Senior,Small,"Spark,PyTorch,TensorFlow",100
+Data Scientist,Germany,66668,Junior,Medium,"PyTorch,TensorFlow,R,SQL",0
+Data Scientist,Germany,152541,Senior,Large,"Tableau,TensorFlow,SQL",50
+Data Scientist,Canada,194404,Executive,Medium,"Spark,Python,TensorFlow",100
+Research Scientist,Canada,88873,Junior,Medium,"Python,R",100
+Data Analyst,India,36925,Executive,Small,"GCP,R,SQL,AWS",0
+Data Scientist,United States,99196,Junior,Medium,"SQL,PyTorch,Spark",0
+Research Scientist,India,59926,Senior,Medium,"GCP,PyTorch,SQL",0
+Data Engineer,United Kingdom,204455,Executive,Medium,"Tableau,TensorFlow,AWS",0
+ML Engineer,United States,204405,Senior,Medium,"GCP,SQL,AWS,Tableau",50
+ML Engineer,Remote,301791,Executive,Medium,"PyTorch,Tableau",50
+Data Analyst,United States,128241,Senior,Small,"Spark,GCP",100
+Research Scientist,United States,334766,Senior,Large,"SQL,GCP",50
+Data Scientist,India,57287,Executive,Medium,"R,GCP,Tableau,AWS",0
+Research Scientist,India,28109,Junior,Large,"Spark,GCP",100
+Research Scientist,United Kingdom,133570,Mid,Small,"Tableau,TensorFlow,Spark",0
+Data Scientist,Remote,71948,Junior,Large,"Tableau,R,Spark",0
+ML Engineer,United States,96307,Junior,Small,"PyTorch,Spark",0
+ML Engineer,Germany,81410,Junior,Small,"Spark,GCP,TensorFlow",50
+Data Scientist,Canada,186185,Executive,Small,"AWS,TensorFlow,R",50
+Data Engineer,Canada,175513,Senior,Medium,"R,Tableau,AWS,PyTorch",0
+ML Engineer,Remote,249843,Senior,Large,"TensorFlow,SQL,Spark,R",50
+Data Engineer,Canada,153435,Senior,Small,"AWS,Python",0
+Data Scientist,United Kingdom,193891,Senior,Large,"GCP,Python,TensorFlow,Tableau",0
+Research Scientist,India,82585,Executive,Small,"R,GCP,AWS,PyTorch",0
+Data Analyst,Canada,40698,Junior,Small,"Python,Spark",100
+Data Scientist,Canada,67759,Junior,Medium,"Python,Tableau,TensorFlow,Spark",0
+ML Engineer,India,77336,Executive,Large,"Python,SQL",0
+ML Engineer,United Kingdom,271402,Executive,Medium,"SQL,TensorFlow,AWS,Tableau",50
+Data Analyst,Canada,169132,Executive,Medium,"Tableau,PyTorch,TensorFlow,AWS",0
+Data Analyst,United States,178810,Executive,Small,"TensorFlow,SQL,GCP,Tableau",100
+Research Scientist,United Kingdom,226106,Executive,Small,"Tableau,PyTorch",50
+Research Scientist,Remote,89756,Junior,Small,"TensorFlow,Python",50
+Data Engineer,Remote,200204,Executive,Small,"R,Tableau,TensorFlow,Python",0
+Data Analyst,United States,181689,Executive,Medium,"PyTorch,R,GCP,AWS",100
+Research Scientist,United States,154906,Mid,Small,"Python,SQL,Spark,R",50
+Data Scientist,United States,192749,Senior,Medium,"AWS,Python",100
+ML Engineer,India,24159,Junior,Medium,"TensorFlow,Python,Tableau,Spark",0
+Data Analyst,United States,187663,Executive,Medium,"Tableau,R,GCP,SQL",0
+Data Scientist,Remote,175234,Senior,Medium,"AWS,Python",0
+Data Engineer,United States,222505,Senior,Large,"GCP,AWS,TensorFlow,SQL",50
+Research Scientist,Germany,109831,Junior,Medium,"PyTorch,AWS,SQL",100
+Data Scientist,India,47846,Senior,Medium,"PyTorch,SQL",50
+Data Scientist,Germany,182007,Senior,Large,"TensorFlow,PyTorch",0
+Data Scientist,United Kingdom,180707,Senior,Large,"R,Tableau",50
+Data Scientist,United Kingdom,165655,Senior,Large,"AWS,R,GCP,Spark",100
+Data Scientist,United States,82319,Junior,Small,"AWS,Tableau",50
+Data Analyst,United Kingdom,58993,Junior,Large,"GCP,Spark",100
+Data Scientist,United Kingdom,117177,Senior,Small,"Tableau,SQL",0
+Data Analyst,Remote,104133,Mid,Large,"Python,Spark,PyTorch,AWS",100
+ML Engineer,India,36925,Mid,Large,"R,SQL",50
+Research Scientist,India,53229,Senior,Medium,"TensorFlow,Python",0
+Data Scientist,Canada,59403,Junior,Medium,"Python,R",50
+Research Scientist,Canada,173154,Senior,Small,"AWS,R,SQL",50
+Data Engineer,United Kingdom,302134,Executive,Large,"GCP,AWS,SQL,PyTorch",0
+Data Analyst,Germany,55344,Junior,Medium,"GCP,Tableau,SQL,PyTorch",100
+Data Engineer,Remote,151260,Senior,Medium,"Tableau,AWS,Python",50
+Data Engineer,Canada,204684,Executive,Small,"Python,PyTorch",0
+Research Scientist,Remote,255299,Senior,Medium,"Tableau,GCP,Spark,PyTorch",100
+Data Analyst,United States,99966,Mid,Small,"R,GCP,PyTorch,AWS",100
+Research Scientist,Germany,98128,Junior,Large,"AWS,R,GCP",50
+ML Engineer,Canada,77996,Junior,Small,"AWS,Tableau,PyTorch",50
+Data Engineer,Canada,194159,Senior,Large,"Tableau,Python",100
+Data Scientist,Germany,63621,Junior,Medium,"AWS,GCP",50
+Research Scientist,Remote,153724,Mid,Large,"AWS,Python",50
+Data Engineer,Germany,105931,Mid,Small,"Spark,PyTorch,AWS,Python",0
+Data Engineer,Remote,111362,Mid,Medium,"GCP,Tableau,PyTorch,R",50
+Data Scientist,India,42490,Senior,Small,"Tableau,AWS",100
+Data Engineer,United States,261149,Executive,Medium,"R,Spark,Python",100
+Data Engineer,India,20652,Junior,Medium,"TensorFlow,Tableau",100
+Data Scientist,United Kingdom,143374,Senior,Medium,"Python,PyTorch",100
+ML Engineer,Canada,173125,Senior,Medium,"TensorFlow,GCP",50
+Data Engineer,United Kingdom,160268,Senior,Large,"R,PyTorch",0
+ML Engineer,United Kingdom,66489,Junior,Small,"Tableau,SQL,R",50
+Data Scientist,India,18374,Junior,Medium,"Spark,Tableau,R",50
+Research Scientist,Canada,112540,Mid,Small,"AWS,TensorFlow,PyTorch",0
+Research Scientist,Germany,247504,Executive,Small,"Tableau,AWS,Python",50
+Research Scientist,United Kingdom,188521,Senior,Small,"TensorFlow,Spark,GCP",100
+Research Scientist,United States,109700,Junior,Small,"Spark,Python,GCP",50
+Data Engineer,Canada,113836,Mid,Medium,"R,Python,TensorFlow,Spark",50
+Data Engineer,India,53477,Executive,Small,"SQL,AWS,R",100
+Data Analyst,United Kingdom,91126,Senior,Medium,"AWS,GCP,SQL,Spark",0
+Data Scientist,Germany,190795,Executive,Medium,"SQL,TensorFlow,R,AWS",100
+ML Engineer,Remote,164869,Mid,Large,"AWS,SQL,Python,Tableau",50
+ML Engineer,Canada,225490,Executive,Medium,"SQL,GCP,TensorFlow",0
+Data Analyst,Remote,109809,Mid,Large,"PyTorch,Python,TensorFlow,AWS",100
+Data Engineer,Germany,209131,Senior,Large,"GCP,Python,PyTorch,AWS",0
+Research Scientist,Remote,118739,Junior,Large,"AWS,SQL",0
+Data Analyst,United Kingdom,51889,Junior,Medium,"Python,Spark",100
+Data Analyst,India,34443,Executive,Small,"SQL,AWS,GCP",0
+Research Scientist,Remote,184153,Senior,Small,"GCP,SQL",0
+ML Engineer,United States,129471,Junior,Large,"Python,AWS,TensorFlow",100
+ML Engineer,India,22665,Junior,Small,"PyTorch,SQL,Tableau,R",50
+Research Scientist,Remote,405243,Executive,Large,"PyTorch,GCP,AWS,R",100
+Research Scientist,Canada,102057,Mid,Medium,"SQL,Tableau,R,Python",100
+Data Scientist,Germany,200912,Senior,Large,"Python,AWS,PyTorch,Spark",0
+Data Analyst,Remote,155682,Executive,Medium,"GCP,Tableau,Python,PyTorch",0
+Research Scientist,Remote,187248,Senior,Small,"R,Python",100
+ML Engineer,Canada,85296,Junior,Small,"SQL,PyTorch",0
+ML Engineer,Canada,110895,Junior,Large,"TensorFlow,R",100
+Research Scientist,Remote,135625,Junior,Large,"Tableau,PyTorch,Spark,R",0
+Data Engineer,Remote,82633,Junior,Medium,"SQL,R",0
+ML Engineer,Germany,108622,Junior,Large,"SQL,GCP",0
+Research Scientist,Remote,181093,Senior,Small,"Tableau,R,SQL",100
+Data Engineer,Remote,83473,Junior,Large,"Tableau,SQL,GCP,R",50
+ML Engineer,India,46108,Senior,Small,"GCP,Spark",50
+Research Scientist,Canada,172457,Mid,Large,"AWS,R,Tableau",100
+Research Scientist,United Kingdom,113273,Junior,Large,"SQL,AWS",0
+Data Analyst,Canada,69100,Mid,Medium,"PyTorch,Python,R,SQL",100
+Research Scientist,Canada,185060,Senior,Medium,"Python,Spark",100
+Research Scientist,United States,137089,Junior,Large,"GCP,R",0
+ML Engineer,United States,298226,Executive,Small,"PyTorch,Tableau,Python",50
+Data Analyst,Canada,53129,Junior,Medium,"R,AWS,Spark",0
+Data Scientist,Canada,200599,Senior,Large,"R,Python,GCP,PyTorch",100
+ML Engineer,Canada,83622,Junior,Small,"TensorFlow,Spark",0
+ML Engineer,United States,288510,Executive,Small,"Tableau,SQL,R",50
+Data Analyst,India,30530,Senior,Small,"R,Spark,GCP,AWS",50
+Research Scientist,United States,412083,Executive,Medium,"TensorFlow,Tableau,GCP,Python",100
+ML Engineer,United Kingdom,170606,Senior,Medium,"R,SQL,AWS,Python",0
+Data Scientist,Germany,92964,Mid,Small,"AWS,Tableau,Python,PyTorch",100
+Data Engineer,India,24980,Junior,Medium,"Python,R,Spark,TensorFlow",100
+Research Scientist,India,46077,Mid,Large,"Tableau,PyTorch,Python",100
+Data Analyst,Canada,59457,Junior,Large,"Tableau,PyTorch,GCP,Spark",100
+Data Engineer,United States,292942,Executive,Medium,"GCP,PyTorch",100
+Data Scientist,Germany,76858,Junior,Medium,"R,SQL,PyTorch",50
+ML Engineer,Canada,128783,Mid,Medium,"AWS,GCP,Tableau",0
+Data Analyst,United States,152992,Executive,Small,"R,PyTorch,Tableau",50
+Data Analyst,United Kingdom,55302,Junior,Large,"PyTorch,SQL,AWS",0
+Data Analyst,United Kingdom,90813,Senior,Medium,"Tableau,Spark,GCP",100
+ML Engineer,India,73538,Executive,Small,"Tableau,GCP,PyTorch",50
+Research Scientist,Remote,308792,Executive,Large,"Spark,GCP",0
+Data Scientist,Canada,156354,Senior,Large,"SQL,Python,R,GCP",50
+Data Analyst,India,18101,Mid,Medium,"AWS,Python",50
+Research Scientist,United States,388935,Executive,Medium,"SQL,AWS,PyTorch",50
+Data Analyst,India,17628,Mid,Medium,"GCP,Spark,AWS",0
+Data Scientist,Germany,161374,Executive,Small,"Python,AWS,Spark,Tableau",50
+Data Scientist,Canada,215737,Executive,Large,"SQL,TensorFlow,GCP,Python",0
+Data Engineer,Germany,103032,Mid,Small,"Python,GCP",0
+Data Engineer,Canada,58615,Junior,Medium,"Tableau,R",50
+ML Engineer,India,38985,Mid,Medium,"AWS,R,Spark",0
+Data Analyst,India,20680,Junior,Large,"SQL,TensorFlow,GCP,Spark",50
+Data Analyst,United States,149847,Senior,Medium,"AWS,R,PyTorch",100
+Research Scientist,Germany,95968,Junior,Medium,"PyTorch,Python",0
+Data Engineer,India,38419,Mid,Large,"Spark,SQL,TensorFlow",0
+ML Engineer,Canada,67271,Junior,Small,"PyTorch,TensorFlow,Spark",0
+Data Analyst,India,23759,Mid,Large,"Spark,GCP,SQL",100
+Research Scientist,United Kingdom,126161,Mid,Small,"Tableau,Spark,GCP,SQL",50
+Data Engineer,Remote,81836,Junior,Medium,"Tableau,PyTorch,R",0
+Data Scientist,Canada,80514,Junior,Large,"R,PyTorch,Spark",0
+Data Analyst,United States,64668,Junior,Medium,"AWS,R",100
+Data Analyst,Germany,107220,Senior,Medium,"TensorFlow,Tableau,AWS,Spark",100
+Data Analyst,Germany,43324,Junior,Small,"SQL,GCP",0
+Data Scientist,United States,197656,Senior,Medium,"R,PyTorch,SQL",50
+Data Scientist,United States,198566,Senior,Small,"TensorFlow,GCP",100
+Data Analyst,Germany,108831,Senior,Medium,"Python,GCP,Spark,SQL",50
+ML Engineer,United States,93920,Junior,Medium,"SQL,GCP",0
+Data Engineer,India,60774,Executive,Small,"Python,SQL,Spark,GCP",100
+ML Engineer,India,41680,Mid,Medium,"GCP,Tableau,TensorFlow,Spark",100
+Data Analyst,Remote,79054,Mid,Medium,"Spark,PyTorch",100
+Data Engineer,Germany,184777,Senior,Large,"TensorFlow,Spark,SQL,R",0
+Research Scientist,United States,121446,Junior,Medium,"Python,Tableau",0
+Data Scientist,Germany,189756,Executive,Small,"Spark,Python,PyTorch,SQL",50
+Data Engineer,United States,80740,Junior,Small,"GCP,AWS,SQL",0
+ML Engineer,Remote,339703,Executive,Large,"SQL,Python,Tableau,AWS",0
+Research Scientist,United Kingdom,159389,Mid,Large,"SQL,R,PyTorch",50
+Data Analyst,United States,150610,Senior,Medium,"Python,AWS,GCP,TensorFlow",50
+Data Engineer,Canada,226838,Executive,Medium,"TensorFlow,SQL,R,Tableau",50
+Data Analyst,India,19190,Mid,Small,"SQL,AWS",100
+Data Scientist,Germany,155295,Senior,Small,"TensorFlow,R,GCP",50
+ML Engineer,United States,116828,Junior,Large,"R,TensorFlow",0
+Data Engineer,United States,132998,Mid,Large,"GCP,R",50
+Data Analyst,United States,110645,Mid,Medium,"PyTorch,GCP,Python,R",100
+Data Analyst,Remote,158990,Executive,Medium,"Spark,Tableau,TensorFlow,GCP",50
+Research Scientist,India,27117,Junior,Small,"Python,TensorFlow",50
+Data Engineer,United Kingdom,168351,Executive,Small,"Python,R",100
+Data Scientist,United States,138756,Mid,Large,"Python,PyTorch,AWS,Spark",100
+Data Analyst,United Kingdom,49268,Junior,Medium,"PyTorch,Spark",0
+Research Scientist,Canada,122156,Mid,Small,"AWS,Python,R,SQL",50
+ML Engineer,United Kingdom,79490,Junior,Medium,"Spark,TensorFlow,AWS,PyTorch",50
+Data Engineer,India,58943,Executive,Small,"R,SQL,Spark,Tableau",0
+Data Analyst,Remote,45868,Junior,Medium,"SQL,Python",0
+Research Scientist,Remote,215904,Senior,Medium,"SQL,R",0
+Data Analyst,United States,127694,Senior,Small,"SQL,Python,TensorFlow,GCP",0
+ML Engineer,United States,122816,Junior,Medium,"TensorFlow,Tableau",50
+Research Scientist,India,71266,Senior,Large,"Tableau,GCP,TensorFlow",100
+Data Scientist,United Kingdom,120077,Senior,Small,"Python,SQL",0
+ML Engineer,United States,128427,Junior,Large,"AWS,Tableau,SQL",100
+Data Scientist,India,49623,Executive,Small,"GCP,AWS,PyTorch",0
+Research Scientist,Germany,319352,Executive,Large,"Python,Spark,SQL",0
+Data Analyst,India,52310,Executive,Large,"Tableau,GCP,AWS,Spark",100
+Data Engineer,Germany,182644,Senior,Large,"Tableau,Python",50
+Data Scientist,Remote,166285,Senior,Medium,"PyTorch,Python",0
+Data Engineer,United States,112271,Mid,Medium,"SQL,AWS,R",0
+Data Engineer,Canada,190869,Executive,Small,"TensorFlow,Spark",100
+Data Scientist,Canada,77111,Mid,Small,"AWS,SQL",0
+Data Scientist,United Kingdom,78081,Mid,Small,"Python,Tableau",0
+Data Analyst,United States,165854,Executive,Medium,"Spark,SQL,R",0
+Data Analyst,India,19291,Junior,Large,"SQL,TensorFlow",50
+Data Analyst,United States,53950,Junior,Medium,"SQL,Python,R,Tableau",50
+ML Engineer,Canada,273836,Executive,Large,"Spark,AWS,TensorFlow,SQL",0
+Research Scientist,United Kingdom,124274,Mid,Large,"Tableau,R,SQL,Spark",0
+Research Scientist,Remote,318657,Executive,Large,"Spark,Tableau,TensorFlow",0
+ML Engineer,India,32600,Mid,Medium,"SQL,TensorFlow",100
+ML Engineer,Canada,258579,Executive,Large,"AWS,GCP,Spark",50
+Data Analyst,India,16463,Junior,Large,"SQL,Python,GCP,Tableau",50
+Data Engineer,Remote,213274,Executive,Small,"PyTorch,TensorFlow",100
+Research Scientist,United Kingdom,320901,Executive,Large,"Spark,Python,SQL,AWS",100
+Data Engineer,India,32495,Mid,Medium,"SQL,GCP,Spark",50
+Data Analyst,United States,146452,Senior,Small,"PyTorch,GCP,AWS",100
+Data Engineer,United States,189975,Senior,Medium,"Spark,TensorFlow,PyTorch",50
+ML Engineer,United States,230893,Senior,Small,"Python,PyTorch",50
+Data Engineer,Remote,212099,Executive,Medium,"TensorFlow,SQL",0
+Data Analyst,United States,191130,Executive,Large,"TensorFlow,Spark",50
+Data Engineer,United States,88305,Junior,Small,"TensorFlow,AWS,SQL,GCP",100
+ML Engineer,United States,88938,Junior,Small,"TensorFlow,R,PyTorch,Spark",0
+Data Engineer,India,38061,Senior,Small,"Python,TensorFlow,GCP,R",0
+Data Engineer,India,71906,Executive,Large,"Tableau,TensorFlow,AWS",100
+Data Scientist,Germany,117380,Mid,Medium,"Python,AWS,SQL,TensorFlow",50
+Research Scientist,United States,229593,Mid,Large,"PyTorch,TensorFlow,SQL,GCP",0
+ML Engineer,United Kingdom,98301,Mid,Small,"Spark,Python,SQL,Tableau",100
+Research Scientist,United States,276976,Executive,Small,"Python,AWS,Spark",100
+Data Scientist,India,51602,Executive,Small,"TensorFlow,Python,Tableau,AWS",100
+ML Engineer,United States,324966,Executive,Large,"AWS,R",50
+Data Analyst,United States,79493,Mid,Medium,"SQL,TensorFlow",100
+Data Analyst,Germany,54405,Junior,Large,"SQL,TensorFlow,Python",100
+ML Engineer,Germany,264606,Executive,Medium,"GCP,TensorFlow",50
+Data Analyst,Germany,171811,Executive,Large,"TensorFlow,AWS",50
+ML Engineer,India,98600,Executive,Large,"Spark,Tableau,PyTorch",100
+Data Scientist,Germany,139357,Senior,Small,"Tableau,Python,GCP,TensorFlow",0
+ML Engineer,India,23041,Junior,Small,"PyTorch,AWS,Tableau,Python",0
+Data Engineer,Germany,54902,Junior,Small,"R,AWS,Spark",0
+Data Engineer,Canada,75610,Junior,Medium,"AWS,R,GCP",50
+Data Scientist,Germany,58472,Junior,Medium,"AWS,Python,SQL,Spark",50
+Data Engineer,United Kingdom,229236,Executive,Medium,"AWS,PyTorch",0
+Data Engineer,Canada,95691,Mid,Medium,"AWS,GCP,Python,Spark",50
+Data Analyst,United States,66387,Junior,Medium,"R,GCP,SQL",100
+Data Engineer,Remote,239966,Executive,Medium,"TensorFlow,Spark",50
+Data Engineer,Canada,290914,Executive,Large,"TensorFlow,Python,GCP",0
+Data Scientist,Remote,185414,Executive,Medium,"R,Spark,SQL",100
+Data Analyst,India,19773,Mid,Small,"GCP,PyTorch,SQL,Python",100
+Data Scientist,India,22688,Mid,Small,"Spark,R,Python",100
+Research Scientist,Germany,138508,Mid,Medium,"SQL,AWS,GCP,Python",0
+Research Scientist,Germany,116792,Junior,Large,"Tableau,GCP,AWS",50
+Data Analyst,Remote,175753,Executive,Large,"PyTorch,GCP",0
+Data Analyst,United Kingdom,115279,Senior,Medium,"TensorFlow,AWS",50
+Data Scientist,United States,257932,Executive,Large,"AWS,SQL",0
+Data Scientist,Germany,60770,Junior,Small,"Python,SQL,Tableau,GCP",50
+Data Engineer,United Kingdom,178991,Senior,Medium,"PyTorch,Tableau,GCP",100
+Research Scientist,India,29368,Junior,Large,"SQL,Tableau,PyTorch",0
+Research Scientist,India,60307,Senior,Medium,"TensorFlow,AWS,Tableau,SQL",50
+ML Engineer,Germany,305681,Executive,Large,"Spark,R,PyTorch",50
+Data Scientist,United Kingdom,82424,Mid,Small,"Spark,SQL,PyTorch",100
+Data Analyst,India,15931,Junior,Medium,"R,TensorFlow,PyTorch,Tableau",0
+ML Engineer,India,59009,Senior,Large,"Python,SQL,TensorFlow,R",100
+Data Analyst,India,39078,Senior,Large,"R,Tableau",0
+Data Scientist,India,78107,Executive,Large,"SQL,Spark,R,GCP",0
+ML Engineer,Remote,170063,Mid,Large,"Tableau,R,Python,AWS",100
+Research Scientist,Canada,245721,Executive,Medium,"TensorFlow,GCP,Spark",50
+ML Engineer,Canada,70826,Junior,Medium,"Tableau,AWS",50
